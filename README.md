@@ -1,6 +1,6 @@
-# As I release, I would like you to adhere to the following:
-
+# blender-ymd-io
+decompile .ez files and convert .ymd files to blender
 - **Do not use it for collaborative models (or share it)**
 - **Please use common sense**
 
-and...Thanks to [@Tiniifan](https://github.com/Tiniifan)
+Thanks to [@Tiniifan](https://github.com/Tiniifan)
